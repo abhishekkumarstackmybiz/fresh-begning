@@ -1,1 +1,3 @@
-hi there this is just sample
+hi there this is just sampl
+
+This is just a sample text
